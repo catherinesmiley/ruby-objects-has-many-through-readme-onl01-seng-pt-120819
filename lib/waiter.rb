@@ -30,3 +30,6 @@
     
 #     best_tipped_meal.customer 
 #   end
+
+class Waiter 
+end
